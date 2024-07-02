@@ -1,7 +1,7 @@
 # Hybrid-Linker
 This repositry contains the source code adn datasets for our study titled as 
 "<strong>Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data</strong>",
-accepted at the <i>IEEE International Working Conference on Source Code Analysis and Manipulation (ICSME 2021)</i>.
+accepted at the <i>IEEE International Conference on Software Maintenance and Evolution (ICSME'2021)</i>.
 
 Access this dataset and source code by following this link: <a href="https://github.com/MalihehIzadi/hybrid-linker" target="_blank">https://github.com/MalihehIzadi/hybrid-linker</a>
 
